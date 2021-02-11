@@ -7,7 +7,7 @@ function setup() {
   function draw() {
   translate(width * 0.0, height * 0.0);
   star(mouseX, mouseY, 30, 70, 25);
-  stroke(90, 50, 168);
+  stroke(150, 50, 168);
   fill(66, 50, 168);
 
   function star(x, y, radius1, radius2, npoints) {
