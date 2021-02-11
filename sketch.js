@@ -1,5 +1,5 @@
 function setup() {
-    createCanvas(720, 400);
+    createCanvas(1024,768);
     alert("Key statement for peice titled Itchy. Use mouse to manuever icon around the screen to fill background and add texture to the artwork. I wanted to elicit a sense of uneasiness within the user and i felt the best way to do so was to choose colors that contrasted with one another but were also complimentary so it doesnt completley burn the retinas. The amount of arms the icon has and the decision to have its shadow build up over the background adds a unique texture to the peice each time its opened so it is unsettling and in turn also adds depth to it as well")
     background(225, 216, 18)
   }
